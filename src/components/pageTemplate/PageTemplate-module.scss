@@ -1,0 +1,19 @@
+@import '../../assets/style/';
+
+.page-template {
+    padding-top: 5rem;
+    margin: 0 auto;
+    background: white;
+    width: 500px;
+    h1 {
+         font-size: 3rem;
+         text-align: center;
+         padding-bottom: 2rem;
+    }
+
+    .content {
+         font-size: 2rem;
+         text-align: center;
+         padding-bottom: 1rem;
+    }
+}
