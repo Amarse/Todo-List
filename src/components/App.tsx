@@ -1,7 +1,7 @@
 import React, {useState}from 'react';
-import PageTemplate from './components/pageTemplate';
-import TodoInput from './components/todoInput';
-import TodoList, { TodoListData } from './components/todoList/TodoList';
+import PageTemplate from './pageTemplate';
+import TodoInput from './todoInput';
+import TodoList, { TodoListData } from './todoList/TodoList';
 
 interface Props { }
 interface State {
